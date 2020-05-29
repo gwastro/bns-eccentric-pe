@@ -53,7 +53,7 @@ Provided parameters are:
  * `ra`: The right ascension of the signal (in radians) (GW190425 only).
  * `dec`: The declination of the signal (in radians) (GW190425 only).
  * `distance`: The lumionsity distance to the signal (in Mpc) (GW170817 only).
- * `comoving_volume`: The comoving volume at the redshift of the signal.
+ * `comoving_volume`: The comoving volume at the redshift of the signal (GW190425 only).
  * `inclination`: The inclination of the binary's orbital angular momentum with
    respect to the line of sight, in radians. An inclination of 0 (pi)
    corresponds to a face-on (face-away) orientation.
