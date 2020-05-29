@@ -1,9 +1,12 @@
 # Measuring the eccentricity of GW170817 and GW190425
-**Amber K. Lenon<sup>1</sup>, Alexander H. Nitz<sup>2,3</sup>, Duncan A. Brown<sup>1,4/sup>**
+**Amber K. Lenon<sup>1</sup>, Alexander H. Nitz<sup>2,3</sup>, Duncan A. Brown<sup>1,4</sup>**
 
  <sub>1. Department of Physics, Syracuse University, Syracuse, NY 13244, USA</sub>
+
  <sub>2. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
+
  <sub>3. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
+
  <sub>4. Kavli Institute for Theoretical Physics, University of California, Santa Barbara, CA 93106, USA</sub>
 
 ## Introduction ##
