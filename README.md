@@ -12,6 +12,7 @@ Two binary neutron star mergers, GW170817 and GW190425, have been detected by Ad
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
+<!-- 
 ```
 @article{,
       key            = "1770186",
@@ -24,6 +25,7 @@ We encourage use of these data in derivative works. If you use the material prov
       SLACcitation   = "%%CITATION = ARXIV:1912.05464;%%"
 }
 ```
+-->
 
 ## Analysis Details ##
 
