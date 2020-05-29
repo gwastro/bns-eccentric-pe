@@ -15,24 +15,21 @@ Two binary neutron star mergers, GW170817 and GW190425, have been detected by Ad
 
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
-<!-- 
 ```
 @article{,
-      key            = "1770186",
       author         = "Lenon, Amber K. and Nitz, Alexander H. and Brown, Duncan A.",
       title          = "{Measuring the eccentricity of GW170817 and GW190425}",
       year           = "2020",
-      eprint         = "1912.05464",
+      eprint         = "2005.14146",
       archivePrefix  = "arXiv",
       primaryClass   = "astro-ph.HE",
-      SLACcitation   = "%%CITATION = ARXIV:1912.05464;%%"
+      SLACcitation   = "%%CITATION = ARXIV:2005.14146;%%"
 }
 ```
--->
 
 ## Analysis Details ##
 
-The configuration files needed to create the analysis workflows are provided in the [configuration](https://github.com/gwastro/bns-eccentric-pe/tree/master/configuration) directory.
+Details of the analysis are available in this [preprint paper](https://arxiv.org/abs/2005.14146) and the configuration files needed to create the analysis workflows are provided in the [configuration](https://github.com/gwastro/bns-eccentric-pe/tree/master/configuration) directory.
 
 The posterior samples are in the `samples` group in the posterior data hdf files. There a variety of tools to access [hdf files](https://www.hdfgroup.org/) from numerous computing languages. Here we will focus on access through python and [h5py](www.h5py.org). files. These may be read in a python environment using an installation of h5py. For example,
 
