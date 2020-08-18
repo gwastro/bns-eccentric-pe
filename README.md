@@ -16,15 +16,17 @@ Two binary neutron star mergers, GW170817 and GW190425, have been detected by Ad
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{,
-      author         = "Lenon, Amber K. and Nitz, Alexander H. and Brown, Duncan A.",
-      title          = "{Measuring the eccentricity of GW170817 and GW190425}",
-      year           = "2020",
-      eprint         = "2005.14146",
-      archivePrefix  = "arXiv",
-      primaryClass   = "astro-ph.HE",
-      SLACcitation   = "%%CITATION = ARXIV:2005.14146;%%"
+@article{Lenon:2020oza,
+         author = "Lenon, Amber K. and Nitz, Alexander H. and Brown, Duncan A.",
+         title = "{Measuring the eccentricity of GW170817 and GW190425}",
+         eprint = "2005.14146",
+         archivePrefix = "arXiv",
+         primaryClass = "astro-ph.HE",
+         doi = "10.1093/mnras/staa2120",
+         month = "5",
+         year = "2020"
 }
+
 ```
 
 ## Analysis Details ##
